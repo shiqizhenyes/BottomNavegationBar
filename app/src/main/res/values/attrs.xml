@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BottomNavigationBar" >
+
+        <attr name="deep" format="dimension" />
+        <attr name="circleButtonRadius" format="dimension"/>
+        <!--<attr name="radius" format="dimension"/>-->
+
+        <attr name="circleButtonBorder" format="dimension"/>
+        <attr name="circleButtonBorderColor" format="color"/>
+        <attr name="circleButtonColor" format="color"/>
+
+        <attr name="backgroundHeight" format="dimension"/>
+        <attr name="backgroundBottomColor" format="color"/>
+
+        <attr name="during" format="integer"/>
+        <!--<attr name="background" format="color"/>-->
+
+    </declare-styleable>
+
+</resources>
